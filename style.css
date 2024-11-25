@@ -1,4 +1,4 @@
-@media screen and (min-width:600px){
+@media screen and (min-width:768px){
 button{
     cursor: pointer;
     font-weight: 900;
@@ -378,7 +378,7 @@ h2{
     width: 98vw;
 }
 }
-@media screen and (max-width:600px){
+@media screen and (max-width:768px){
 button{
     cursor: pointer;
     font-weight: 900;
