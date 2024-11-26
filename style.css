@@ -459,6 +459,7 @@ h2 {
     }
 
     .price{
+        flex-direction: column;
         margin: 4vh;
     }
 
