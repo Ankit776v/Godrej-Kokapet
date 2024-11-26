@@ -1,4 +1,4 @@
-@media screen and (min-width:768px){
+@media screen and (min-width:456px){
 button{
     cursor: pointer;
     font-weight: 900;
@@ -378,15 +378,15 @@ h2{
     width: 98vw;
 }
 }
-@media screen and (max-width:768px){
+@media screen and (max-width:456px){
 button{
     cursor: pointer;
     font-weight: 900;
 }
 .header{
-    background: url('./banner1.webp') no-repeat;{
+    background: url('./banner1.webp') no-repeat;
     display: flex;
-}
+    flex-direction: column;
 }
 .header li{
     display: none;
@@ -396,7 +396,7 @@ button{
 }
 .headings{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
 }
 .building{
     width: 99vw;
