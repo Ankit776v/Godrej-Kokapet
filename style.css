@@ -405,13 +405,13 @@ button{
 h3{
     display: flex;
     justify-content: center;
-    font-size: 3vh;
+    font-size: 2vh;
     color: #5ba742;
 }
 h2{
     display: flex;
     justify-content: center;
-    font-size: 4vh;
+    font-size: 3vh;
 }
 .area{
     display: flex;
@@ -421,7 +421,7 @@ h2{
     align-items: center;
 }
 .area h1{
-    font-size: 4vh;
+    font-size: 3vh;
     margin: 1vh;
 }
 .area h2{
@@ -477,6 +477,7 @@ h2{
 }
 .contact h1{
     border: solid black .5vh;
+    font-size: 3vh;
     padding: 1vh 5vw;
     animation: book .5s infinite alternate;
 }
