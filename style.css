@@ -441,7 +441,7 @@ h2{
 }
 .contact{
     display: flex;
-    width: 95vw;
+    width: 90vw;
     height: 65vh;
     padding: 1.5vw;
     flex-direction: column;
