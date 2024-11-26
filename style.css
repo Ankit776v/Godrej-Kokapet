@@ -57,8 +57,8 @@ button {
 
 .contact {
     display: flex;
-    width: 40%;
-    height: 85vh;
+    width: 35%;
+    height: 80vh;
     flex-direction: column;
     align-items: center;
     border: solid black 0.5vh;
